@@ -1,0 +1,17 @@
+============================================================
+RELATÓRIO DE ANÁLISE DE DADOS
+============================================================
+Total de registros: 7
+Válidos: 2 (28.6%)
+Inválidos: 5
+
+Registros válidos:
+  Ana Souza            ana.souza@email.com            123.456.789-01
+  Gabriela Nunes       gabriela.nunes@email.com       123.456.789-07
+
+Registros inválidos:
+  Linha 3: email em formato inválido: 'bruno@dominio'
+  Linha 4: data impossível: 31/02/1995
+  Linha 5: idade fora da faixa 0-120: 150
+  Linha 6: telefone em formato inválido: '11 91234-5678'
+  Linha 7: idade não é número: 'abc'
